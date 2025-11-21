@@ -1,0 +1,4 @@
+Name: ESSIEN SOPHIA ERNEST
+Matric number: 22CD032138
+Live URL of hosted application: https://llm-qa-project-essien-sophia-ernest.onrender.com
+GitHub repository link: https://github.com/sophiaessien017-lab/LLM_QA_Project_ESSIEN_SOPHIA_ERNEST_22CD032138
